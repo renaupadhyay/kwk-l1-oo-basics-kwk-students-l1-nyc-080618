@@ -13,4 +13,15 @@ class Table
     @color 
   end
   
-  erika
+  def where_they_live
+    @live
+  end
+  
+  def favorite_food
+    @food
+  end
+  
+  
+  erika= Table.new("blue", "Riverdale", "tacos")
+  sandy= Table.new("purple", "Les", "dessert")
+  rena= Table.new("pink", "Florida", "pizza")
