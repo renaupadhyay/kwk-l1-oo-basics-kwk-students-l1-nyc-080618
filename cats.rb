@@ -7,14 +7,16 @@ class Cat
   end
   
   def is_it_cute
-    puts"is it cute"
   @cute 
 end
 
+def is_it_fuzzy
+  @fuzzy
+end
 end
 
 tiger= Cat.new("super cute","super fuzzy","very mean", "no")
 garfield= Cat.new("ewwwww","yeah...kinda","well he hates mondays", "no")
   
-  puts garfield.is_it_cute
+  puts garfield.is_it_fuzzy
   
