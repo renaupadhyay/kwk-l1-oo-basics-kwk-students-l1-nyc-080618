@@ -20,6 +20,7 @@ class Table
   def favorite_food
     @food
   end
+end
   
   
   erika= Table.new("blue", "Riverdale", "tacos")
