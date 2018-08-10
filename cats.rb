@@ -1,12 +1,13 @@
 class Cat 
-  def initialize (cute,fuzzy,mean)
-    @mean= mean
+  def initialize (cute,fuzzy,mean, cuddly)
+    @cute= mean
     @fuzzy=fuzzy
-    @cute =cute 
+    @mean =cute 
+    @cuddly = cuddly
   end
 end
 
-tiger= Cat.new ("super cute","super fuzzy","very mean")
-garfield= Cat.new ("ewwwww","yeah...kind","well he hates mondays")
+tiger= Cat.new ("super cute","super fuzzy","very mean", "no")
+garfield= Cat.new ("ewwwww","yeah...kind","well he hates mondays", "no")
   
   puts Cat
