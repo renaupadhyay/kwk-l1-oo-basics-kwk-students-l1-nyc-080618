@@ -6,7 +6,7 @@ class Cat
   end
 end
 
-tiger= Cat.new ("super cute", "super fuzzy", "very mean")
-garfield= Cat.new ("ewwwww", "yeah...kind", "well he hates mondays")
+tiger= Cat.new ("super cute","super fuzzy","very mean")
+garfield= Cat.new ("ewwwww","yeah...kind","well he hates mondays")
   
   puts Cat
