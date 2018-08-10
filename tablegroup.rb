@@ -27,4 +27,4 @@ erika= Table.new("blue", "Riverdale", "tacos")
 sandy= Table.new("purple", "Les", "dessert")
 rena= Table.new("pink", "Florida", "pizza")
   
-puts erika.base_traits
+puts erika.where_they_live
