@@ -1,8 +1,8 @@
 class Cat 
   def initialize (cute,fuzzy,mean, cuddly)
-    @cute= mean
+    @cute= cute
     @fuzzy=fuzzy
-    @mean =cute 
+    @mean =mean 
     @cuddly = cuddly
   end
   
