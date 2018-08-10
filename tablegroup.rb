@@ -27,4 +27,4 @@ erika= Table.new("blue", "Riverdale", "tacos")
 sandy= Table.new("purple", "Les", "dessert")
 rena= Table.new("pink", "Florida", "pizza")
   
-  erika.base_traits
+puts erika.base_traits
