@@ -23,8 +23,8 @@ class Table
 end
   
   
-  erika= Table.new("blue", "Riverdale", "tacos")
-  sandy= Table.new("purple", "Les", "dessert")
-  rena= Table.new("pink", "Florida", "pizza")
+erika= Table.new("blue", "Riverdale", "tacos")
+sandy= Table.new("purple", "Les", "dessert")
+rena= Table.new("pink", "Florida", "pizza")
   
   erika.base_traits
