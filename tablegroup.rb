@@ -25,3 +25,5 @@ class Table
   erika= Table.new("blue", "Riverdale", "tacos")
   sandy= Table.new("purple", "Les", "dessert")
   rena= Table.new("pink", "Florida", "pizza")
+  
+  erika
