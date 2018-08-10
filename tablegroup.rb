@@ -12,3 +12,5 @@ class Table
   def favorite_color
     @color 
   end
+  
+  erika
