@@ -4,5 +4,6 @@ class Cat
     @fuzzy=fuzzy
     @cute =cute 
   end
+end
   
   
