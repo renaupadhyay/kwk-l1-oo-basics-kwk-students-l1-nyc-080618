@@ -26,4 +26,4 @@ class Table
   sandy= Table.new("purple", "Les", "dessert")
   rena= Table.new("pink", "Florida", "pizza")
   
-  erika
+  erika.base_traits
