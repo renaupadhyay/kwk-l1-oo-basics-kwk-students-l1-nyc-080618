@@ -12,8 +12,8 @@ end
 
 end
 
-tiger= Cat.new ("super cute","super fuzzy","very mean", "no")
-garfield= Cat.new ("ewwwww","yeah...kind","well he hates mondays", "no")
+tiger= Cat.new("super cute","super fuzzy","very mean", "no")
+garfield= Cat.new("ewwwww","yeah...kind","well he hates mondays", "no")
   
   puts garfield.is_it_cute
   
